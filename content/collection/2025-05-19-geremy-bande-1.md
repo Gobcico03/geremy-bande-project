@@ -1,5 +1,5 @@
 ---
-title: ALICE DE MEULENAERE
+title: FLOOR MECHANT
 related_page:
   - 2024-11-17-example-page-a
 reftags:
@@ -8,25 +8,25 @@ imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - image: /img/img_6180.jpeg
+    - image: /img/scan_r1065555_2025-05-15-11-00-47.jpg
       caption: Disegno 1
       text_below: a fregna nuda
-    - image: /img/img_6183.jpeg
+    - image: /img/scan_r1065555_2025-05-15-11-01-49.jpg
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6184.jpeg
+    - image: /img/scan_r1065555_2025-05-15-11-02-03.pdf.jpg
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6185.jpeg
+    - image: /img/scan_r1065555_2025-05-15-11-02-17.pdf.jpg
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6186.jpeg
+    - image: /img/scan_r1065555_2025-05-15-11-02-39.pdf.jpg
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6187.jpeg
+    - image: /img/scan_r1065555_2025-05-15-11-02-50.pdf.jpg
   gallerytext: gallery text
-thumbnail: /img/chatgpt-image-19-mag-2025-16_57_36.png
-date: 2025-05-13T08:32:23.651Z
+thumbnail: /img/chatgpt-image-19-mag-2025-17_15_40.png
+date: 2025-05-19T10:14:54.401Z
 numbernavigation: 11
 layout: layout2
 mainincluded: true

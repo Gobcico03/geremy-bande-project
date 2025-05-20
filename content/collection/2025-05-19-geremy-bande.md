@@ -1,5 +1,5 @@
 ---
-title: ALICE DE MEULENAERE
+title: GEREMY BANDE
 related_page:
   - 2024-11-17-example-page-a
 reftags:
@@ -8,25 +8,25 @@ imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - image: /img/img_6180.jpeg
+    - image: /img/drawing-1-copia.jpg
       caption: Disegno 1
       text_below: a fregna nuda
-    - image: /img/img_6183.jpeg
+    - image: /img/drawing-3-copia_upscaled.jpg
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6184.jpeg
+    - image: /img/drawing-4-copia_upscaled.jpg
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6185.jpeg
+    - image: /img/drawing-5-copia_upscaled.jpg
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6186.jpeg
+    - image: /img/drawin-6-1-.jpg
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6187.jpeg
+    - image: /img/drawing-2-copia_upscaled.jpg
   gallerytext: gallery text
-thumbnail: /img/chatgpt-image-19-mag-2025-16_57_36.png
-date: 2025-05-13T08:32:23.651Z
+thumbnail: /img/chatgpt-image-19-mag-2025-18_02_24.png
+date: 2025-05-19T10:11:33.493Z
 numbernavigation: 11
 layout: layout2
 mainincluded: true

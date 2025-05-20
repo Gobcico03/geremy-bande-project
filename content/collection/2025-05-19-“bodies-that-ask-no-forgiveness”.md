@@ -1,5 +1,5 @@
 ---
-title: ALICE DE MEULENAERE
+title: “Bodies That Ask No Forgiveness”
 related_page:
   - 2024-11-17-example-page-a
 reftags:
@@ -8,25 +8,23 @@ imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - image: /img/img_6180.jpeg
+    - image: /img/chatgpt-image-19-mag-2025-23_56_36.png
       caption: Disegno 1
       text_below: a fregna nuda
-    - image: /img/img_6183.jpeg
+    - image: /img/chatgpt-image-19-mag-2025-23_39_22.png
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6184.jpeg
+    - image: /img/chatgpt-image-19-mag-2025-23_58_52.png
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6185.jpeg
+    - image: /img/chatgpt-image-19-mag-2025-23_54_01.png
       caption: Disegno 1
       text_below: Questo è un disegno
-    - image: /img/img_6186.jpeg
-      caption: Disegno 1
-      text_below: Questo è un disegno
-    - image: /img/img_6187.jpeg
+    - image: /img/chatgpt-image-20-mag-2025-10_39_49.png
+    - image: /img/chatgpt-image-20-mag-2025-10_50_53.png
   gallerytext: gallery text
-thumbnail: /img/chatgpt-image-19-mag-2025-16_57_36.png
-date: 2025-05-13T08:32:23.651Z
+thumbnail: /img/chatgpt-image-20-mag-2025-10_46_55.png
+date: 2025-05-19T22:07:25.173Z
 numbernavigation: 11
 layout: layout2
 mainincluded: true

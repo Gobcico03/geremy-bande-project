@@ -19,7 +19,7 @@ body {
         background-color: #161715;
     }
     .dark-mode .el-drawer {
-        background-color: #2d308aed;
+        background-color: hsla(237, 12%, 37%, 0.929);
       }
     /* */
     .gray-mode body {
