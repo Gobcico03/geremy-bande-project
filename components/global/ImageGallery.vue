@@ -8,7 +8,7 @@
       <div v-if="post.imagegallery.gallerytitle" class="text-xl font-bold pb-2 text-center">
         {{ post.imagegallery.gallerytitle }}
       </div>
-      <div v-if="post.imagegallery.gallerytext" class="pb-2 text-center">
+      <div v-if="post.imagegallery.gallerytext" class="text-xl pb-2 text-center">
         {{ post.imagegallery.gallerytext }}
       </div>
 
@@ -154,7 +154,7 @@ onMounted(() => {
 }
 .overlay-text {
   position: absolute;
-  bottom: 20%; /* MODIFICA L'ALTEZZA DEL TESTO SOTTO L'IMMAGINE (PIU ALTO = PIU IN ALTO) */
+  bottom: 2%; /* MODIFICA L'ALTEZZA DEL TESTO SOTTO L'IMMAGINE (PIU ALTO = PIU IN ALTO) */
   left: 50%;
   transform: translateX(-50%);
   color: #fff;
@@ -164,7 +164,10 @@ onMounted(() => {
   max-width: 90%;
   text-align: center;
 }
-
+.text-center {
+  text-align: center;
+  padding-bottom: 7%;
+}
 .close-button {
   position: absolute;
   top: 1rem;

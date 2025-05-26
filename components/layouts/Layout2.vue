@@ -24,7 +24,7 @@
       >
         <div class="container p-4">
           <div>
-            <h1 class="text-white text-4xl md:text-6xl lg:text-8xl font-bold">{{ data.title }}</h1>
+            <h1 class="text-white text-4xl md:text-6xl lg:text-8xl montserrat-bold font-bold">{{ data.title }}</h1>
             <h1 v-if="data.subtitle" class="text-white opacity-80 pt-3 text-xl md:text-2xl lg:text-3xl font-bold pb-10">{{ data.subtitle }}</h1>
           </div>
           
@@ -86,7 +86,6 @@ defineProps(['data', 'formatDate']);
   height: 40px;
   animation: spin 1s linear infinite;
 }
-
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }

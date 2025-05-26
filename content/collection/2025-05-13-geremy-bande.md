@@ -1,5 +1,5 @@
 ---
-title: GEREMY BANDE
+title: ALICE DE MEULENAERE
 related_page:
   - 2024-11-17-example-page-a
 reftags:
@@ -8,23 +8,32 @@ imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - image: /img/drawing-3.jpg
+    - image: /img/alice-1.jpg
       caption: Disegno 1
-      text_below: a fregna nuda
-    - image: /img/drawing-20.jpg
+      text_below: The body yields, but does not surrender. A curved back holds a
+        thought no one will see.
+    - image: /img/alice-2.jpg
       caption: Disegno 1
-      text_below: Questo è un disegno
-    - image: /img/drawing-21.jpg
+      text_below: She sits folded like a warm stone. Flesh is presence, not form.
+    - image: /img/alice-3.jpg
       caption: Disegno 1
-      text_below: Questo è un disegno
-    - image: /img/drawing-5.jpg
+      text_below: Every limb echoes silence. The letting go is complete, but not defeat.
+    - image: /img/alice-4.jpg
       caption: Disegno 1
-      text_below: Questo è un disegno
-    - image: /img/drawing-2.jpg
+      text_below: A curled figure shielding itself from light. The weight of existing,
+        gathered in a pose.
+    - image: /img/alice-5.jpg
       caption: Disegno 1
-      text_below: Questo è un disegno
-  gallerytext: gallery text
-thumbnail: /img/pierre-chatel-innocenti-xovRcLRpX20-unsplash.jpg
+      text_below: Bare shoulders breathe slowly. Every line tells of an ancient fatigue.
+    - image: /img/alice-6.jpg
+      text_below: "She doesn’t show herself, she offers. The absent face is a choice:
+        it’s the body that speaks."
+  gallerytext: "A collection that doesn’t idealize but disarms: the human body
+    emerges as a fragile and powerful terrain, marked by weight, time, and pose.
+    There is no beauty to display here, only presence to endure;  each figure is
+    an emotional gesture vibrating between exhaustion, vulnerability, and quiet
+    resilience."
+thumbnail: /img/chatgpt-image-19-mag-2025-16_57_36.png
 date: 2025-05-13T08:32:23.651Z
 numbernavigation: 11
 layout: layout2
@@ -33,6 +42,10 @@ tags:
   - Tag 1
 introduction: ""
 collectionincluded: true
-description: bio
+description: "A collection that doesn’t idealize but disarms: the human body
+  emerges as a fragile and powerful terrain, marked by weight, time, and pose.
+  There is no beauty to display here, only presence to endure;  each figure is
+  an emotional gesture vibrating between exhaustion, vulnerability, and quiet
+  resilience."
 ---
 GEREMY BANDE portfolio

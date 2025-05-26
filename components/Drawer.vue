@@ -13,7 +13,7 @@
   <el-drawer
     v-model="drawer"
     class="drawer min-w-fit max-w-screen"
-    :direction="direction"
+    direction="rtl"
     :custom-class="'fixed-drawer'"
   >
     <!-- Drawer content goes here -->

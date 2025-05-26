@@ -15,13 +15,6 @@
         </div>
 
         <div class="text-xs leading-3 container">
-          <hr>
-          <p class="text-xs opacity-50 hover:opacity-100 pb-5">Last update: {{ formatDate(data.date) }}</p>
-          <article v-if="data.tags" class="tags">
-            <li v-for="(item, index) in data.tags" :key="index" class="pt-2 text-xs opacity-50 hover:opacity-100">
-              <NuxtLink :to="`/tags/${item}`">{{ item }}</NuxtLink>
-            </li>
-          </article>
         </div>
       </div>
       <ShareButtons />
