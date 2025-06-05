@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  ssr: true,   // Disable server-side rendering for a fully client-side application
+  ssr: true,  
 
   modules: [
     '@nuxtjs/tailwindcss',
