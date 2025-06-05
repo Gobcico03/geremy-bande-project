@@ -87,5 +87,11 @@ export default defineNuxtConfig({
   },
   
   devtools: { enabled: true },
-  compatibilityDate: '2024-08-30'
+  compatibilityDate: '2024-08-30',
+
+  nitro: {
+    prerender: {
+      failOnError: false
+    }
+  }
 })
