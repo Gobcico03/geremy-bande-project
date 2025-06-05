@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  ssr: false,   // Disable server-side rendering for a fully client-side application
+  ssr: true,   // Disable server-side rendering for a fully client-side application
 
   modules: [
     '@nuxtjs/tailwindcss',
@@ -90,9 +90,8 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-08-30',
 
   nitro: {
-    preset: 'static', // Forza static output
     prerender: {
-      failOnError: false // Ignora gli errori nei contenuti
+      failOnError: false
     }
   }
 })
