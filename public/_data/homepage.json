@@ -1,4 +1,6 @@
 {
-  "homepageredirect": [],
+  "homepageredirect": [
+    "example-page-a"
+  ],
   "thumbnail": "/img/img_4767.jpg"
 }
