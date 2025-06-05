@@ -90,8 +90,9 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-08-30',
 
   nitro: {
+    preset: 'static', // Forza static output
     prerender: {
-      failOnError: false
+      failOnError: false // Ignora gli errori nei contenuti
     }
   }
 })
