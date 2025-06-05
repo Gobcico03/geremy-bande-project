@@ -1,11 +1,9 @@
 [build]
-  command = "npm run build"
-  publish = ".output"
-
-[functions]
-  directory = ".netlify/functions"
+    command = "npm run build"
+    base = "/"
 
 [[redirects]]
-  from = "/*"
-  to = "/.netlify/functions/server"npm run build
-  status = 200
+
+    from = "/*"
+    to = "/page/2025-04-27-geremy-contact"
+    status = 200
