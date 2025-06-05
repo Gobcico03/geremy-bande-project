@@ -1,0 +1,5 @@
+// ROLLUP_NO_REPLACE 
+ const examplePageA = "{\"parsed\":{\"_path\":\"/page/example-page-a\",\"_dir\":\"page\",\"_draft\":false,\"_partial\":false,\"_locale\":\"\",\"title\":\"THE BODY AS AN ISLAND\",\"description\":\"\",\"layout\":\"default\",\"subtitle\":\"Seven glances, seven  landings, a body to cross\",\"tags\":[\"Tag A\"],\"imagegallery\":{\"showgallery\":true,\"carouselgrid\":\"carousel\",\"galleryImages\":[],\"gallerytitle\":\"\"},\"thumbnail\":\"/img/img_4771.jpeg\",\"date\":\"2024-11-17T14:29:57.955Z\",\"numbernavigation\":0,\"layoutpage\":\"layout4\",\"introduction\":\"\",\"promoted\":\"0\",\"body\":{\"type\":\"root\",\"children\":[{\"type\":\"element\",\"tag\":\"p\",\"props\":{},\"children\":[{\"type\":\"text\",\"value\":\"copyright Geremy Bande © 2025 - All rights reserved\"}]}],\"toc\":{\"title\":\"\",\"searchDepth\":2,\"depth\":2,\"links\":[]}},\"_type\":\"markdown\",\"_id\":\"content:page:example-page-a.md\",\"_source\":\"content\",\"_file\":\"page/example-page-a.md\",\"_stem\":\"page/example-page-a\",\"_extension\":\"md\"},\"hash\":\"HUItB4vuQK\"}";
+
+export { examplePageA as default };
+//# sourceMappingURL=example-page-a.mjs.map
